@@ -1,0 +1,316 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Product",
+				"ProductStandardPrice"
+			],
+			[
+				"Custom",
+				"Customer_T"
+			],
+			[
+				"Prod",
+				"ProductStandardPrice"
+			],
+			[
+				"Produc",
+				"Product_T"
+			],
+			[
+				"total",
+				"totalCredits"
+			],
+			[
+				"begi",
+				"beginningBalance"
+			],
+			[
+				"credi",
+				"creditLimit"
+			],
+			[
+				"month",
+				"monthlyInterestRate"
+			],
+			[
+				"yea",
+				"yearlyPeriod"
+			],
+			[
+				"Yea",
+				"YearlyPeriod"
+			],
+			[
+				"FindPa",
+				"FindPayableAmountV2"
+			],
+			[
+				"Discount",
+				"DiscountPercentage"
+			],
+			[
+				"exerc",
+				"exerciseFour"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":c#",
+				"Set Syntax: C#"
+			],
+			[
+				":C",
+				"Set Syntax: C"
+			],
+			[
+				":sql",
+				"Set Syntax: SQL"
+			],
+			[
+				":install",
+				"Package Control: Install Package"
+			],
+			[
+				":install pa",
+				"Package Control: Install Package"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				":them",
+				"UI: Select Theme"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gamb0l/doc/study/adventOfCode/d1/RocketEquation.cs",
+		"/home/gamb0l/doc/study/adventOfCode/d1/input.txt",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/dbas32100/TextbookCh6Examples.sql",
+		"/home/gamb0l/doc/study/sheridan/summer2020/dbas32100/PVFC.sql",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m2/tut2q4.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/dbas32100/TextbookCh6Examples.sql",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m2/tut1q.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m2/tut2q2.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m2/tut2q3.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog32356/w2/ExerciseSet2.cs",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog32356/w2/ExerciseSet1.cs",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog32356/w2/Ch4Examples.cs",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m1/tutq1.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m1/tutq2.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m1/tutq3.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m1/funcDef.c"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 460.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AdventOfCode.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
